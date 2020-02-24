@@ -1,5 +1,5 @@
 _repo: Cesare-Lombroso-a-modern-man-of-science_61423
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Paul, Eden
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '389'
     url: http://www.gutenberg.org/2009/agents/389
     wikipedia: https://en.wikipedia.org/wiki/Eden_Paul
+covers:
+- cover_type: archival
+  image_path: 61423-h/images/cover.jpg
 creator:
   author:
     agent_name: Kurella, Hans
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51418
     wikipedia: https://de.wikipedia.org/wiki/Hans_Kurella
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61423#Cesare-Lombroso-a-modern-man-of-science
 gutenberg_issued: '2020-02-16'
 gutenberg_type: Text
 identifiers:
